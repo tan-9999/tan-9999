@@ -21,7 +21,7 @@ Aspiring Software Developer with a passion for building web applications and gam
 - **Frameworks:** Django, Flask
 - **Libraries:** ReactJS, jQuery, tkinter, numpy
 - **Tools:** Git, Jira, VS Code
-- **Databases:** [Specify any databases you're familiar with]
+- **Databases:** MySQL, sqlite
 
 ---
 
