@@ -17,11 +17,11 @@ Aspiring Software Developer with a passion for building web applications and gam
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C, C++
-- **Frameworks:** Django, Flask, NodeJs
+- **Languages:** Python, JavaScript, C, C++, dart
+- **Frameworks:** Django, Flask, NodeJS, Next, Flutter
 - **Libraries:** ReactJS, jQuery, tkinter, numpy
-- **Tools:** Git, Jira, VS Code
-- **Databases:** MySQL, sqlite
+- **Tools:** Git, Jira, VS Code, Google console
+- **Databases:** MySQL, SQLite, MongoDB
 
 ---
 
