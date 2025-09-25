@@ -7,7 +7,7 @@ Aspiring Software Developer with a passion for building web applications and gam
 ## 👨‍💻 About Me
 
 - 🎓 Engineering Graduate
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **Flutter**
 - 🤝 Open to collaborating on web development projects
 - 📫 Reach me at [tanmays9999@gmail.com](mailto:tanmays9999@gmail.com)
 - 🌐 Visit my [Portfolio](https://tan-9999.github.io/tan_portfolio/)
