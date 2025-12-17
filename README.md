@@ -1,6 +1,6 @@
 # Hi there, I'm Tanmay! 👋
 
-Aspiring Software Developer with a passion for building web applications and games. Proficient in Python, Django, Flask, JavaScript, jQuery and more.
+An early-career software developer with experience in building full-stack web and mobile applications. My focus is on frontend frameworks, backend systems, AR/VR technology, and e-commerce platforms. I enjoy working with real-time communication systems and am currently exploring AI/Agentic systems.
 
 ---
 
@@ -17,11 +17,12 @@ Aspiring Software Developer with a passion for building web applications and gam
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C, C++, dart
-- **Frameworks:** Django, Flask, NodeJS, Next, Flutter
+- **Languages:** Python, JavaScript, Dart, TypeScript
+- **Frameworks:** React, Next.js, Flask, Django, Flutter
 - **Libraries:** ReactJS, jQuery, tkinter, numpy
-- **Tools:** Git, Jira, VS Code, Google console
-- **Databases:** MySQL, SQLite, MongoDB
+- **Tools & Databases:**  MySQL, MongoDB, Git/GitLab, Node.js, Express, Postman, Tailwind CSS, Docker
+- **AR/VR:** MediaPipe, TensorFlow, Product Visualization
+- **Web Technologies:** REST APIs, WebSockets, Real-time chat, Backend Optimisation
 
 ---
 
@@ -38,10 +39,10 @@ Aspiring Software Developer with a passion for building web applications and gam
 Here are some of my notable projects:
 
 - **[Realtime Chat Application](https://github.com/tan-9999/realtime-chat):** A Python-based chat application.
-- **[Space Talk](https://github.com/tan-9999/Space-Talk-):** A Python-based social media application.
+- **[Agentic AI Coding Assistant](https://github.com/tan-9999/Copilot_backend):** A Python-based Assistant to explain Github Repos.
+- **[Snakes](https://github.com/tan-9999/Snakes):** A Flutter-based snake game for mobile devices.
 - **[Connect Four Game](https://github.com/tan-9999/Connect_four):** A JavaScript implementation of the classic Connect Four game.
 - **[Tic-Tac-Toe](https://github.com/tan-9999/Tic-Tac-Toe):** A basic game of Tic-Tac-Toe built with JavaScript.
-- **[Python Text Editor](https://github.com/tan-9999/Python-Text-Editor):** A Python-based text-editor using tkinter library.
 
 Feel free to explore these repositories to see my work in action!
 
@@ -49,8 +50,3 @@ Feel free to explore these repositories to see my work in action!
 
 ### ⭐️ If you like what I do, consider giving my projects a star!
 
-
-<!---
-tan-9999/tan-9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
