@@ -10,7 +10,7 @@ Aspiring Software Developer with a passion for building web applications and gam
 - 🌱 Currently learning **Flutter**
 - 🤝 Open to collaborating on Software development projects
 - 📫 Reach me at [tanmays9999@gmail.com](mailto:tanmays9999@gmail.com)
-- 🌐 Visit my [Portfolio](https://tan-9999.github.io/tan_portfolio/)
+- 🌐 Visit my [Portfolio](https://www.tanmay.fun)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-s-2a46b3130/)
 
 ---
