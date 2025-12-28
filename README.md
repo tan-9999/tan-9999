@@ -28,7 +28,7 @@ An early-career software developer with experience in building full-stack web an
 
 ## 📈 GitHub Stats
 
-![Tanmay's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tan-9999&theme=radical)
+![Tanmay's GitHub Stats](https://streak-stats.demolab.com/?user=tan-9999&theme=radical)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tan-9999&layout=compact&theme=radical)
 
