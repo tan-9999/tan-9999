@@ -1,6 +1,6 @@
 # Hi there, I'm Tanmay! 👋
 
-An early-career software developer with experience in building full-stack web and mobile applications. My focus is on frontend frameworks, backend systems, AR/VR technology, and e-commerce platforms. I enjoy working with real-time communication systems and am currently exploring AI/Agentic systems.
+An experienced software developer with experience in building full-stack web and mobile applications. My focus is on frontend frameworks, backend systems, AR/VR technology, and e-commerce platforms. I enjoy working with real-time communication systems and am currently exploring AI/Agentic systems.
 
 ---
 
