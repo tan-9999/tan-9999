@@ -1,52 +1,47 @@
-# Hi there, I'm Tanmay! 👋
+<h1 align="center">Hi 👋, I'm Tanmay Shimpi</h1>
+<h3 align="center">Flutter | Django | React | Full-Stack Developer from Mumbai</h3>
 
-An experienced software developer with experience in building full-stack web and mobile applications. My focus is on frontend frameworks, backend systems, AR/VR technology, and e-commerce platforms. I enjoy working with real-time communication systems and am currently exploring AI/Agentic systems.
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%2B+Django+%2B+React;Building+eCommerce+%26+SaaS+Products;Exploring+AI+Integration" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Engineering Graduate
-- 🌱 Currently learning **Flutter**
-- 🤝 Open to collaborating on Software development projects
-- 📫 Reach me at [tanmays9999@gmail.com](mailto:tanmays9999@gmail.com)
-- 🌐 Visit my [Portfolio](https://www.tanmay.fun)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanmay-s-2a46b3130/)
+- 🔭 I’m currently working on **eCommerce applications and SaaS products**
+- 🌱 I’m currently learning **AI integration, SaaS architecture, and advanced animations**
+- 💬 Ask me about **Flutter, Django REST Framework, React/Next.js, Firebase, and deployment**
+- 📍 Based in **Mumbai, India**
+- ⚡ Fun fact: I enjoy **debugging complex issues and building polished user experiences**
 
----
+## Tech Stack
 
-## 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,django,react,nextjs,python,ts,js,html,css,postgresql,mysql,firebase,supabase,git,github,vscode,figma" />
+</p>
 
-- **Languages:** Python, JavaScript, Dart, TypeScript
-- **Frameworks:** React, Next.js, Flask, Django, Flutter
-- **Libraries:** ReactJS, jQuery, tkinter, numpy
-- **Tools & Databases:**  MySQL, MongoDB, Git/GitLab, Node.js, Express, Postman, Tailwind CSS, Docker
-- **AR/VR:** MediaPipe, TensorFlow, Product Visualization
-- **Web Technologies:** REST APIs, WebSockets, Real-time chat, Backend Optimisation
+## GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
 
-## 📈 GitHub Stats
+## Featured Projects
 
-![Tanmay's GitHub Stats](https://streak-stats.demolab.com/?user=tan-9999&theme=radical)
+- **E-commerce App** – Flutter mobile app with payment integration and real-time features.
+- **SaaS Dashboard** – React/Next.js frontend with Django REST API backend.
+- **Chat System** – Real-time messaging using Django Channels.
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tan-9999&layout=compact&theme=radical)
+## Contact Me
 
----
-
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-- **[Realtime Chat Application](https://github.com/tan-9999/realtime-chat):** A Python-based chat application.
-- **[Agentic AI Coding Assistant](https://github.com/tan-9999/Copilot_backend):** A Python-based Assistant to explain Github Repos.
-- **[Snakes](https://github.com/tan-9999/Snakes):** A Flutter-based snake game for mobile devices.
-- **[Connect Four Game](https://github.com/tan-9999/Connect_four):** A JavaScript implementation of the classic Connect Four game.
-- **[Tic-Tac-Toe](https://github.com/tan-9999/Tic-Tac-Toe):** A basic game of Tic-Tac-Toe built with JavaScript.
-
-Feel free to explore these repositories to see my work in action!
-
----
-
-### ⭐️ If you like what I do, consider giving my projects a star!
-
+- LinkedIn: https://linkedin.com/in/yourlinkedin
+- Email: youremail@gmail.com
+- GitHub: https://github.com/yourusername
