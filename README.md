@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </p>
 
+!Tanmay's GitHub Stats
+
+!Top Languages
+
 ## Featured Projects
 
 - **E-commerce App** – Flutter mobile app with payment integration and real-time features.
