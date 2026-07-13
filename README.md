@@ -30,8 +30,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tan-9999&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tan-9999&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=tan-9999&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tan-9999&layout=compact&theme=radical" />
 </p>
 
 ## Featured Projects
