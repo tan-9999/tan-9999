@@ -30,10 +30,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tan-9999&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-9999&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tan-9999&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-9999&theme=tokyonight&layout=compact" />
 </p>
-
 
 ## Featured Projects
 
