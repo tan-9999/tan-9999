@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shimpi</h1>
-<h3 align="center">Flutter | Django | React | Full-Stack Developer from Mumbai</h3>
+<h3 align="center">Flutter | Django | React | Curious Developer from Mumbai</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -15,9 +15,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **eCommerce applications and SaaS products**
-- 🌱 I’m currently learning **AI integration, SaaS architecture, and advanced animations**
-- 💬 Ask me about **Flutter, Django REST Framework, React/Next.js, Firebase, and deployment**
+- 🔭 I’m currently working on **Encrypted local db mobile application**
+- 🌱 I’m currently learning **Google services integration, SaaS architecture, and advanced animations**
+- 💬 Ask me about **Systems, Flutter, Django , Next.js, Firebase, and deployment**
 - 📍 Based in **Mumbai, India**
 - ⚡ Fun fact: I enjoy **debugging complex issues and building polished user experiences**
 
